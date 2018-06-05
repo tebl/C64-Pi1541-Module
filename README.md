@@ -12,4 +12,6 @@ build one. Personally I prefer clean and nice PCBs over hacked together stuff,
 so away I went to make one in KiCAD.
 
 For more details on the software, see https://cbm-pi1541.firebaseapp.com/ for
-more details not included in my humble hobby project.
+more details not included in my humble hobby project. The base template used as a
+starting point for the RPi hat, including RPi-specific connectors, is found on
+https://github.com/xesscorp/RPi_Hat_Template.
