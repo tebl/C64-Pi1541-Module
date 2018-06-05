@@ -46,16 +46,14 @@ $EndDescr
 $Comp
 L RPi_GPIO J2
 U 1 1 5516AE26
-P 7500 2700
+P 1650 1275
 AR Path="/5516AE26" Ref="J2"  Part="1" 
 AR Path="/5515D395/5516AE26" Ref="J2"  Part="1" 
-F 0 "J2" H 8250 2950 60  0000 C CNN
-F 1 "RPi_GPIO" H 8250 2850 60  0000 C CNN
-F 2 "RPi_Hat:Pin_Header_Straight_2x20" H 7500 2700 60  0001 C CNN
-F 3 "" H 7500 2700 60  0000 C CNN
-	1    7500 2700
+F 0 "J2" H 2400 1525 60  0000 C CNN
+F 1 "RPi_GPIO" H 2400 1425 60  0000 C CNN
+F 2 "RPi_Hat:Pin_Header_Straight_2x20" H 1650 1275 60  0001 C CNN
+F 3 "" H 1650 1275 60  0000 C CNN
+	1    1650 1275
 	1    0    0    -1  
 $EndComp
-Text Notes 7800 5000 0    60   Italic 0
-Thru-Hole Connector
 $EndSCHEMATC

@@ -1,4 +1,4 @@
-update=05/06/2018 13:48:50
+update=05/06/2018 16:00:29
 version=1
 last_client=kicad
 [cvpcb]
@@ -24,6 +24,8 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=C:/xesscorp/KiCad/libraries
@@ -57,5 +59,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=4ch_i2c_level_converter
+LibName31=7406
+LibName32=C:/Program Files/KiCad/share/kicad/library/switches
