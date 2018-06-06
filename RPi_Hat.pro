@@ -1,4 +1,4 @@
-update=05/06/2018 16:00:29
+update=05/06/2018 23:27:56
 version=1
 last_client=kicad
 [cvpcb]
@@ -62,3 +62,4 @@ LibName29=valves
 LibName30=4ch_i2c_level_converter
 LibName31=7406
 LibName32=C:/Program Files/KiCad/share/kicad/library/switches
+LibName33=IIC_OLED
