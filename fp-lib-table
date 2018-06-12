@@ -2,4 +2,5 @@
   (lib (name IIC_OLED)(type KiCad)(uri "$(KIPRJMOD)/IIC_OLED.pretty")(options "")(descr ""))
   (lib (name RPi_Hat)(type KiCad)(uri "$(KIPRJMOD)/RPi_Hat.pretty")(options "")(descr ""))
   (lib (name IIC_4CH_Level_Converter)(type KiCad)(uri "$(KIPRJMOD)/IIC_4CH_Level_Converter.pretty")(options "")(descr ""))
+  (lib (name C64_IEC)(type KiCad)(uri "$(KIPRJMOD)/C64_IEC.pretty")(options "")(descr ""))
 )
