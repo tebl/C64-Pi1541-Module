@@ -1,4 +1,4 @@
-update=05/06/2018 23:27:56
+update=06/06/2018 13:09:29
 version=1
 last_client=kicad
 [cvpcb]
@@ -24,8 +24,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=C:/xesscorp/KiCad/libraries
@@ -63,3 +61,5 @@ LibName30=4ch_i2c_level_converter
 LibName31=7406
 LibName32=C:/Program Files/KiCad/share/kicad/library/switches
 LibName33=IIC_OLED
+[general]
+version=1
