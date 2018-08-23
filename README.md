@@ -36,14 +36,14 @@ VCC, SCL and SDA.
 | Reference | Item                                  | Count |
 | --------- | ------------------------------------- | ----- |
 | PCB       | Fabricate yourself using Gerber files |     1 |
-| U1        | 7406 DIP                              |     1 |
 | J1        | 2x20 pin long female header           |     1 |
 | BZ1       | Buzzer (7mm pin spacing, 5mm OK)      |   (1) |
 | C1        | 100nF ceramic capacitor               |     1 |
-| IC3       | 4ch I2C level converter module        |     1 |
 | R1        | 100 Ohm resistor                      |     1 |
 | R2, R3    | 1k Ohm resistor                       |     2 |
 | IEC1, IEC2| Female S-terminal 6pin DIN PCB        |  1 (1)|
 | IC1       | SSD1306 OLED-display 128x64 (0.96")   |    (1)|
+| IC2       | 7406 DIP                              |     1 |
+| IC3       | 4ch I2C level converter module        |     1 |
 | IC4       | SSD1306 OLED-display 128x32 (0.91")   |    (1)|
 | SW1-SW5   | Momentary push button, 6x6mm          |    (5)|
