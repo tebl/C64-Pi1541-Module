@@ -1,11 +1,11 @@
 # PI1541 Hat
 OK, so the new and shiny SD2IEC wasn't all you wanted from a lowcost floppy
-emulation solution. Sure, there are other good solutions out there for those
-willing and able to put a lot of money into the FPGA-based ones - personally
-I can sort of afford it if I started saving last year, but I don't want my
-other retro computers to think I'm biased towards the Commodore-stuff so 
-options were found wanting... even still, you have to spend that money
-before it get's spent on something I actually need!
+emulation solution for your Commodore 64! Sure, there are other good solutions
+out there for those willing and able to put a lot of money into the FPGA-based
+alternatives - personally can see myself affording one of them someday, but that
+needs saving up some money I don't currently have. Also, I don't want my
+other retro computers to think I'm completely biased towards the Commodore-stuff
+so options were needed...
 
 Thankfully, some enterprising folks have taken it upon themselves to create a
 solution based on the Raspberry Pi (3B or newer) and with some extra
