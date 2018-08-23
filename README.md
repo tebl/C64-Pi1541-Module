@@ -27,7 +27,12 @@ https://github.com/xesscorp/RPi_Hat_Template.
 # BOM
 This is the part list as it stands now, everything should be readily available
 from your friendly neighbourhood electronics store - for me that means ebay, but
-your mileage may wary. Values in parenthesis are components that are to be
+your mileage may wary. The design of the board has been kept simple so that
+anyone with access to a reasonably sized soldering iron should easily be able to
+assemble it themselves, all parts are through-hole so no need to fear those tiny
+SMD-parts because you won't find any of them here!
+
+Values in parenthesis are components that are to be
 considered optional, but if you want to build it for yourself I higly recommend
 them as they only slightly increases the overall cost of doing this project.
 Displays should be of the I2C-variety with 4 pins in the following order: GND,
@@ -47,3 +52,4 @@ VCC, SCL and SDA.
 | IC3       | 4ch I2C level converter module        |     1 |
 | IC4       | SSD1306 OLED-display 128x32 (0.91")   |    (1)|
 | SW1-SW5   | Momentary push button, 6x6mm          |    (5)|
+| D1        | 5mm LED, red for authenticity         |     1 |
