@@ -40,7 +40,7 @@ VCC, SCL and SDA.
 
 | Reference | Item                                  | Count |
 | --------- | ------------------------------------- | ----- |
-| PCB       | Fabricate yourself using Gerber files |     1 |
+| PCB       | Fabricate using Gerber files ([order](https://www.pcbway.com/project/shareproject/C64_Pi1541.html?inviteid=88707))  |     1 |
 | J1        | 2x20 pin long female header           |     1 |
 | BZ1       | Buzzer (7mm pin spacing, 5mm OK)      |   (1) |
 | C1        | 100nF ceramic capacitor               |     1 |
@@ -53,3 +53,5 @@ VCC, SCL and SDA.
 | IC4       | SSD1306 OLED-display 128x32 (0.91")   |    (1)|
 | SW1-SW5   | Momentary push button, 6x6mm          |    (5)|
 | D1        | 5mm LED, red for authenticity         |     1 |
+
+Please use the order link above when signing up to help me support this project, I'll get a small discount on future orders and hopefully that means I can afford to keep developing new and exciting modules in the future. By using the URL you won't have to deal with the rather daunting order forms for PCB fabrication, but if you want to go that route they'll probably want a zipped-up copy of the files in the export-directory!
